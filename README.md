@@ -2,6 +2,11 @@
 
 gdockertag lists tag what selected repository from hub.docker.com
 
+## install
+
+```
+$ go get -u github.com/dorako321/gdockertag
+```
 
 ## usage
 
